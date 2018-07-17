@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.0.8 (2018-07-17)
+------------------
 * Maintainer email changed
 * Package dependencies corrected
 * Renamed files to avoid collisions with the original repos
