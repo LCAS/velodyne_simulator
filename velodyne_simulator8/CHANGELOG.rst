@@ -2,6 +2,12 @@
 Changelog for package velodyne_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Forked in LCAS to build a gazebo8-compatible binary. Package names had to be changed to prevent colisions
+
+
+1.0.7 (2018-07-03)
+------------------
+
 1.0.6 (2017-10-17)
 ------------------
 
