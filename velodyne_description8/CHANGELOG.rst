@@ -6,8 +6,6 @@ Changelog for package velodyne_description
 
 
 
-=======
->>>>>>> 8a03c4bbc05883538b7df6408393537c54f91416:velodyne_description/CHANGELOG.rst
 Forthcoming
 -----------
 * Maintainer email changed
