@@ -20,6 +20,8 @@
   <depend>sensor_msgs</depend>
   <depend>tf</depend>
   <depend>gazebo8_ros</depend>
+  <depend>gazebo8</depend>
+
 
   <export>
   </export>
