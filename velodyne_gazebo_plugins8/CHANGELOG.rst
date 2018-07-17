@@ -4,8 +4,8 @@ Changelog for package velodyne_gazebo_plugins
 
 * Forked in LCAS to build a gazebo8-compatible binary. Package names had to be changed to prevent colisions
 
-Forthcoming
------------
+1.1.1 (2018-07-17)
+------------------
 * removed gazebo8_ros from CMakelists
 * Merge branch 'gazebo8' of https://github.com/LCAS/velodyne_simulator into gazebo8
 * corrected dependency to point to gazebo8

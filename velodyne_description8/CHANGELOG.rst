@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.1.1 (2018-07-17)
+------------------
 * Merge branch 'gazebo8' of https://github.com/LCAS/velodyne_simulator into gazebo8
 * Contributors: mfernandezcarmona@lincoln.ac.uk
 
