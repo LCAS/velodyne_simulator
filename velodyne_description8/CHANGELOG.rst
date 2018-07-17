@@ -6,8 +6,13 @@ Changelog for package velodyne_description
 
 
 
-=======
->>>>>>> 8a03c4bbc05883538b7df6408393537c54f91416:velodyne_description/CHANGELOG.rst
+1.0.8 (2018-07-17)
+------------------
+* Maintainer email changed
+* Package dependencies corrected
+* Renamed files to avoid collisions with the original repos
+* Contributors: mfernandezcarmona@lincoln.ac.uk
+
 1.0.7 (2018-07-03)
 ------------------
 * Added GPU support
