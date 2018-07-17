@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
+
   <name>velodyne_simulator8</name>
   <version>1.0.7</version>
   <description>
@@ -15,8 +16,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <exec_depend>velodyne_description</exec_depend>
-  <exec_depend>velodyne_gazebo_plugins</exec_depend>
+  <exec_depend>velodyne_description8</exec_depend>
+  <exec_depend>velodyne_gazebo_plugins8</exec_depend>
 
   <export>
     <metapackage/>
