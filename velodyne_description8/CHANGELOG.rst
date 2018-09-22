@@ -6,6 +6,18 @@ Changelog for package velodyne_description
 
 
 
+Forthcoming
+-----------
+* Merge pull request `#3 <https://github.com/LCAS/velodyne_simulator/issues/3>`_ from LCAS/gazebo-split
+  Separated gazebo plugins in xacro model.
+* Separated gazebo plugins in xacro model.
+  tf names changed to conform to iliad.
+* Revert "Update VLP-16.urdf.xacro"
+  This reverts commit 0b4af58490a6220e6c22721441b0dfc31d99b201.
+* Update VLP-16.urdf.xacro
+  Changed declaration to match other branch's one. Now should be possible to use both indistinctively.
+* Contributors: Manuel Fernandez-Carmona, Marc Hanheide, mfernandezcarmona@lincoln.ac.uk
+
 1.1.1 (2018-07-17)
 ------------------
 * Merge branch 'gazebo8' of https://github.com/LCAS/velodyne_simulator into gazebo8
