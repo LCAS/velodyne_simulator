@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.1.2 (2018-09-22)
+------------------
 * Merge pull request `#3 <https://github.com/LCAS/velodyne_simulator/issues/3>`_ from LCAS/gazebo-split
   Separated gazebo plugins in xacro model.
 * Separated gazebo plugins in xacro model.
