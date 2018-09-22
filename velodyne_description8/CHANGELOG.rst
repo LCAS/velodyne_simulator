@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.1.3 (2018-09-22)
+------------------
 
 1.1.2 (2018-09-22)
 ------------------
