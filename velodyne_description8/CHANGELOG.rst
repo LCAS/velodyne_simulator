@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.1.4 (2018-09-24)
+------------------
 * corrected offset
 * Contributors: ILIAD user
 
