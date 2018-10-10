@@ -6,8 +6,8 @@ Changelog for package velodyne_description
 
 
 
-Forthcoming
------------
+1.1.5 (2018-10-10)
+------------------
 * Merge pull request `#4 <https://github.com/LCAS/velodyne_simulator/issues/4>`_ from gpdas/gazebo8
   some file still linked to velodyne_description instead of *8
 * Some file links to velodyne_description replaced with corresponding ones in velodyne_description8
